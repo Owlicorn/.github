@@ -20,7 +20,7 @@ Welcome to **Owlicorn** — a mystical realm where intelligence meets imaginatio
 
 | Model Name   | Params | Abilities       | Status          | Notes                                       |
 |-------------|--------|----------------|----------------|--------------------------------------------|
-| Elf Owl AI  | 2.8M   | HootSpeak      | Dev Model       | Trained on small dataset; can talk only.  |
+| Elf Owl AI  | 45M   | HootSpeak      | Dev Model       | Trained on small dataset; can talk only.  |
 
 > *Fun Fact:* Elf Owls are tiny but mighty. Even the smallest model can cast magical AI spells ⚡  
 
@@ -30,7 +30,7 @@ Welcome to **Owlicorn** — a mystical realm where intelligence meets imaginatio
 
 Owlicorn thrives on creative minds! If you want to add new models, improve datasets, or create new owl powers:  
 1. Fork the repo  
-2. Add your model under `/models`  
+2. Add your model under `/models`, training data under `/train` folder 
 3. Submit a pull request 🦉✨  
 
 ---
