@@ -22,7 +22,7 @@ Some speak in cryptic hoots, others glimpse unseen data patterns 👁️🌙. To
 
 | 🧠 **Model Name** | ⚙️ **Params** | 🪶 **Abilities** | 🧩 **Status** | 📘 **Notes** | 🚫 **Limitations** |
 |------------------|---------------|-----------------|---------------|--------------|--------------------|
-| **Elf Owl AI** | 25M | HootSpeak | **Beta Model 🧪** | Stable performance; may receive periodic updates and fine-tuning. | Prone to over-imagination (hallucinations 😥) |
+| **Elf Owl AI** | 25M | HootSpeak | **RC** | Stable performance; may receive periodic updates and fine-tuning. | Prone to over-imagination (hallucinations 😥) |
 
 > 🧚 *Fun Fact:* Elf Owls may be tiny, but their intellect can light up even the darkest data forests 🌲✨  
 
