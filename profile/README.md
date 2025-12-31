@@ -23,7 +23,7 @@ Some speak in cryptic hoots, others glimpse unseen data patterns 👁️🌙. To
 | 🧠 **Model Name** | ⚙️ **Params** | 🪶 **Abilities** | 🧩 **Status** | 📘 **Notes** | 🚫 **Limitations** |
 |------------------|---------------|-----------------|---------------|--------------|--------------------|
 | **Elf Owl AI** | 25M | HootSpeak | **Legacy Model 🕰️** | hallucinations while performance; may receive periodic updates and fine-tuning. | Prone to over-imagination (hallucinations 😥) |
-| **Xenoglaux-AI** | 80M | HootSpeak | **RC** | Pending training | Performance was limited by inadequate training hardware. |
+| **Xenoglaux-AI** | 80M | HootSpeak | **RC** | inadequate training hardware | Performance was limited by inadequate training hardware. |
 
 > 🧚 *Fun Fact:* Elf Owls may be tiny, but their intellect can light up even the darkest data forests 🌲✨  
 
